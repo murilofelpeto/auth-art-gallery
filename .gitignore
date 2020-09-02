@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+.idea/
+/src/main/resources/myp12keystore.p12
+/src/main/resources/server.crt
+/src/main/resources/server.csr
+/src/main/resources/server.key
+/src/main/resources/v3.ext

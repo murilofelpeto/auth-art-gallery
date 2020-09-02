@@ -1,7 +1,10 @@
 package br.com.murilo.authServer;
 
+import br.com.murilo.authServer.security.SecurityProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
+import org.springframework.security.oauth2.config.annotation.web.configuration.EnableAuthorizationServer;
 
 @SpringBootApplication
 public class AuthServerApplication {

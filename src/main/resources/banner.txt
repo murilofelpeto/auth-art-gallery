@@ -1,0 +1,19 @@
+
+${Ansi.BLUE}               AAA           UUUUUUUU     UUUUUUUUTTTTTTTTTTTTTTTTTTTTTTTHHHHHHHHH     HHHHHHHHH
+${Ansi.BLUE}              A:::A          U::::::U     U::::::UT:::::::::::::::::::::TH:::::::H     H:::::::H
+${Ansi.BLUE}             A:::::A         U::::::U     U::::::UT:::::::::::::::::::::TH:::::::H     H:::::::H
+${Ansi.BLUE}            A:::::::A        UU:::::U     U:::::UUT:::::TT:::::::TT:::::THH::::::H     H::::::HH
+${Ansi.BLUE}           A:::::::::A        U:::::U     U:::::U TTTTTT  T:::::T  TTTTTT  H:::::H     H:::::H
+${Ansi.BLUE}          A:::::A:::::A       U:::::D     D:::::U         T:::::T          H:::::H     H:::::H
+${Ansi.BLUE}         A:::::A A:::::A      U:::::D     D:::::U         T:::::T          H::::::HHHHH::::::H
+${Ansi.BLUE}        A:::::A   A:::::A     U:::::D     D:::::U         T:::::T          H:::::::::::::::::H
+${Ansi.BLUE}       A:::::A     A:::::A    U:::::D     D:::::U         T:::::T          H:::::::::::::::::H
+${Ansi.BLUE}      A:::::AAAAAAAAA:::::A   U:::::D     D:::::U         T:::::T          H::::::HHHHH::::::H
+${Ansi.BLUE}     A:::::::::::::::::::::A  U:::::D     D:::::U         T:::::T          H:::::H     H:::::H
+${Ansi.BLUE}    A:::::AAAAAAAAAAAAA:::::A U::::::U   U::::::U         T:::::T          H:::::H     H:::::H
+${Ansi.BLUE}   A:::::A             A:::::AU:::::::UUU:::::::U       TT:::::::TT      HH::::::H     H::::::HH
+${Ansi.BLUE}  A:::::A               A:::::AUU:::::::::::::UU        T:::::::::T      H:::::::H     H:::::::H
+${Ansi.BLUE} A:::::A                 A:::::A UU:::::::::UU          T:::::::::T      H:::::::H     H:::::::H
+${Ansi.BLUE}AAAAAAA                   AAAAAAA  UUUUUUUUU            TTTTTTTTTTT      HHHHHHHHH     HHHHHHHHH
+
+${Ansi.RED} :: Spring Boot${spring-boot.formatted-version} :: ${Ansi.DEFAULT}
